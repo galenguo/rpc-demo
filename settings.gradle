@@ -1,0 +1,5 @@
+rootProject.name = 'rpc-demo'
+include 'rpc-netty'
+include 'rpc-dubbo'
+include 'rpc-sofa'
+
